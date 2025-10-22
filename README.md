@@ -1,4 +1,4 @@
-暇人たまおです
+暇人たまおです<br>
 2カラムレイアウトのサイトすらまともに作れない初心者です
 ### 言語
 [![Languages](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev)
